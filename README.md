@@ -48,9 +48,10 @@ Install Sox:
 2. Run the script from the command line with two parameters:
    - Speed increase factor (e.g., `1.25` for a 25% increase)
    - Pitch shift in semitones (can be fractional, e.g., `2.5`)
+   - Recommended parameters 1.25 for speed and 2 for pitch
 
   ```bash
-   python script.py 1.25 2.5
+   python script.py 1.25 2
   ```
 
    The script will process the most recently added song in the `/input` folder. It will increase the song's speed by the specified factor and adjust the pitch by the specified number of semitones, thereby creating a Nightcore version of the track.
