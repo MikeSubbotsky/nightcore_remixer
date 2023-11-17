@@ -29,14 +29,14 @@ pip install pydub
 Install Sox:
 
 - **Linux**: Use your distribution's package manager. For example, on Debian/Ubuntu-based systems:
-- 
+   
   ```bash
   sudo apt-get install sox
   sudo apt-get install libsox-fmt-mp3
   ```
 - **Windows**: Download from [SoX - Sound eXchange.](https://sourceforge.net/projects/sox/)
 - **MacOS**: Install using Homebrew:
-- 
+   
   ```bash
   brew install sox
   ```
