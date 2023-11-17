@@ -48,7 +48,7 @@ Install Sox:
 2. Run the script from the command line with two parameters:
    - Speed increase factor (e.g., `1.25` for a 25% increase)
    - Pitch shift in semitones (can be fractional, e.g., `2.5`)
-   - Recommended parameters 1.25 for speed and 2 for pitch
+   - Recommended parameters: `1.25` for the speed increase and `2` for the pitch
 
   ```bash
    python script.py 1.25 2
