@@ -39,6 +39,7 @@ Install Sox:
    
   ```bash
   brew install sox
+  brew install libsox-fmt-mp3
   ```
 
 ## Usage
